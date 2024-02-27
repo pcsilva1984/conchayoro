@@ -3,6 +3,7 @@
 name: jobs examples
 
 on:
+   workflow_dispatch
    push
 
 jobs:
