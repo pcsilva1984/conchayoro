@@ -16,4 +16,5 @@ jobs:
        with:
          node-version: 14
      - name: node verification
-       run: node -version
+       run: node -v
+       
