@@ -1,5 +1,7 @@
 name: Ansible basic
+
 on: workflow_dispatch
+
 jobs:
    ansible-ping:
      runs-on: ubuntu-latest
